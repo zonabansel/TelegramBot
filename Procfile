@@ -1,1 +1,1 @@
-web: gunicorn {{ project_name }}.wsgi
+web: python3 bot.py
