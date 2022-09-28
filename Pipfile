@@ -1,1 +1,1 @@
-web: python3 bot.py
+python_version = "3.10"
